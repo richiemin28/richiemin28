@@ -10,7 +10,7 @@ Full-stack developer with an MSc in Advanced Computer Science from the Universit
 
 ### Projects
 
-- **Adaptive Earthquake Prediction System** — a running service that pulls live seismic data from the USGS REST API, retrains itself as new events arrive, and reports its own evaluation metrics. MSc dissertation.
+- **Adaptive Earthquake Prediction System** — a running service that pulls live seismic data from the USGS REST API, retrains itself as new events arrive, and reports its own evaluation metrics. MSc dissertation. [Live demo](https://richiemin28.github.io/EarthQuakePredictor/)
 - **Deepfake Image Detection** — CNN trained in PyTorch on a 1.6 GB dataset, deployed behind a Gradio interface so anyone can test it.
 - **Banking & Inventory System** — full-stack web app with a relational schema for accounts, transactions and stock.
 - **Commercial Website** — live client site I own from implementation through to production deployment.
