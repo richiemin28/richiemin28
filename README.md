@@ -2,7 +2,7 @@
 
 Full-stack developer with an MSc in Advanced Computer Science from the University of Chester. I build things end to end, from backend logic and APIs through to the interface people actually use.
 
-**Currently:** working through Microsoft Azure certification and building freelance web projects.
+**Currently:** working freelance web projects.
 
 ### What I work with
 
