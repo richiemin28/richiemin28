@@ -26,4 +26,4 @@ Full-stack developer and designer with an MSc in Advanced Computer Science from 
 
 - **SuitCase.** Native Android wish list app with Firebase auth, image storage, Google Maps geotagging and SMS sharing. *Java, Android Studio, Firebase.*
 
-[LinkedIn](https://www.linkedin.com/in/minpyae28) · richiemin.work@gmail.com · UK
+[LinkedIn](https://www.linkedin.com/in/minpyae28) · richiemin.work@gmail.com · https://minpyae.com  · UK
