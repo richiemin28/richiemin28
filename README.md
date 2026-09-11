@@ -14,7 +14,7 @@ Full-stack developer and designer with an MSc in Advanced Computer Science from 
 
 - **Adaptive Earthquake Prediction System.** A running service that pulls live seismic data from the USGS REST API, retrains itself as new events arrive, and reports its own evaluation metrics. Pick a 7, 15 or 30 day window and tap any zone for detail. MSc dissertation. [Live demo](https://richiemin28.github.io/EarthQuakePredictor/)
 
-- **Aventra.** Event discovery and ticketing platform for the Myanmar market. Modular microservice architecture, plus the full brand and UI system: logo, high-fidelity screens for discovery, purchase, payment and ticket wallet, and a fraud-resistant QR scheme that regenerates every 60 seconds and stays valid offline. Designed end to end, never implemented. [View the deck](https://123awera.my.canva.site/aventra-pptx)
+- **Aventra.** Event discovery and ticketing platform for the Myanmar market. Modular microservice architecture, plus the full brand and UI system: logo, high-fidelity screens for discovery, purchase, payment and ticket wallet, and a fraud-resistant QR scheme that regenerates every 60 seconds and stays valid offline. Designed end to end, never implemented. [Open the prototype](https://www.figma.com/proto/eeC9tkryPJ23UkjGoKsuXN/Project-Aventra?node-id=579-5242&starting-point-node-id=405%3A5464) · [View the deck](https://123awera.my.canva.site/aventra-pptx)
 
 - **FunOlympic Games 2024.** Registration and broadcast platform with role-based access across three tiers, an admin dashboard, and password recovery by email or OTP. Built solo against a client brief, from requirements through to live deployment. *JavaScript, jQuery, Firebase.* [Live demo](https://payris--project.web.app)
 
